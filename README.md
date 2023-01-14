@@ -1,5 +1,9 @@
 # Sharing Situs Belajar Programming Indonesia-English
 
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+
 1. Achmatim : https://achmatim.net
 2. Bahasaweb : https://bahasaweb.com
 3. Belajar Koding : https://belajarkoding.net
